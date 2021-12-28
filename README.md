@@ -1,4 +1,4 @@
-# deep_residual_voxel_autoencoder (EffiecentNet3D)
+# deep_residual_voxel_autoencoder (EfficientNet3D)
 
 Repository for EfficientNets extended to 3D classification and the implementation of an EfficientNet Autoencoder in Tensorflow.
 
