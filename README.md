@@ -9,3 +9,13 @@ In the domain of computer vision, deep residual neural networks like EfficientNe
 Paper URL: 
 
 Cite: 
+
+Project Summary:
+
+- efficientnets: the Efficientnet architecture, currently using the bugfix version
+- lrp: script for testing heatmap generation, not relevant for the repo
+- small_test_scripts: scripts to test ae, not relevant for the repo
+- tensorboards: Saved weights and models from previous training sessions
+- training.py: autonencoder training
+- training_transferlearning: Using the trained encoder, proceed to transferlearning
+- vizualitzation.py: vizualize autoencoder results
