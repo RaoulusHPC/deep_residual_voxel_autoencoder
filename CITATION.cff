@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Schönhof"
   given-names: "Raoul"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-3003-2324"
 - family-names: "Elstner"
   given-names: "Jannes"
 - family-names: "Manea"
@@ -25,7 +25,7 @@ preferred-citation:
   authors:
   - family-names: "Schönhof"
     given-names: "Raoul"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-3003-2324"
   - family-names: "Elstner"
     given-names: "Jannes"
   - family-names: "Manea"
