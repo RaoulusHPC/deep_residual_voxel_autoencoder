@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schönhof"
+  given-names: "Raoul"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Elstner"
+  given-names: "Jannes"
+- family-names: "Manea"
+  given-names: "Radu"
+- family-names: "Tauber"
+  given-names: "Steffen"
+- family-names: "Awad"
+  given-names: "Ramez"
+- family-names: "Huber"
+  given-names: "Marco F."
+  
+title: "Simplified Learning of CAD Features Leveraging a Deep Residual Autoencoder"
+version: 1.0.0
+
+date-released: 2022-02-16
+url: "https://github.com/RaoulusHPC/deep_residual_voxel_autoencoder"
