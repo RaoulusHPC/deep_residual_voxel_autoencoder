@@ -8,7 +8,7 @@ In the domain of computer vision, deep residual neural networks like EfficientNe
 
 Paper URL: 
 
-Cite: 
+Cite: R. Schönhof, J. Elstner, R. Manea, S. Tauber, R. Awad, M. F. Huber, Simplified Learning of CAD Features Leveraging a Deep Residual Autoencoder, CIRP Design 2022.
 
 Project Summary:
 
